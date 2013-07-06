@@ -1,0 +1,59 @@
+
+
+.titulo
+
+{
+font-family:"Comic Sans MS", cursive;
+font-size:20px;	
+background-color:#06F;
+	
+}
+
+.titulo
+{
+	padding:20px
+}
+
+div.capacontenido
+{
+	padding:100px;
+	width:auto;
+	height:auto;
+	background-color:#06F;
+	
+}
+
+.capa1
+
+{
+	width:200px;
+	height:auto;
+}
+
+
+.capa2
+
+{
+	width:200px;
+	height:auto;
+	background-color:#063;
+}
+
+
+.capa3
+
+{
+	width:200px;
+	height:auto;
+}
+
+.tabla
+{
+ border-collapse:collapse;
+ border-color:#03F;	
+}
+
+.cuerpo
+{
+background-color:#06F;	
+}
