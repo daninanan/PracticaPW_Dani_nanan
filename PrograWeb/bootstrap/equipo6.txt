@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ﻿Daniel Jesus Rosado L�pez 10030403	
 Samuel Velasco
 Victor
 Jorge Moreno Gaviña 09030980 
+=======
+Daniel Jesus Rosado L�pez 10030403	
+Samuel Velasco
+Victor Lopez Vera :09030908
+Jorge
+>>>>>>> beaf036bf9e9611e64a9c2d282ae3d0e9d53a6fe
